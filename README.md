@@ -8,3 +8,8 @@ done
 update docs
 
 correcting the doc
+
+
+# Person
+========
+- (void)run
