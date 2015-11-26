@@ -6,4 +6,5 @@
 @property (nonatomic) NSString *username;
 @property (nonatomic) NSString *lastName;
 @property (nonatomic) NSString *firstName;
+- (void)run;
 @end

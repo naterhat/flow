@@ -10,4 +10,8 @@
     } return self;
 }
 
+- (void)run {
+}
+
+
 @end
