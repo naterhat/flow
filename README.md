@@ -13,3 +13,7 @@ correcting the doc
 # Person
 ========
 - (void)run
+
+# Versions
+==========
+- v0.2 version
